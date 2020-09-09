@@ -1,6 +1,6 @@
-# Django-Blog-Project
+# React-Django-To-Do-App
 
-THis is a simple ToDo-App. Users can check a schedule that they make.
+THis is a simple Todo-App. Users can check a schedule that they make.
 
 It is separated between back-end and frond-end by using Django REST Framework.
 
